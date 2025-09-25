@@ -1,0 +1,3 @@
+Post A task --> You have to start the npm server and then go to the postman to add a task 
+                In the postman you have to create a file , the have to select the post method file.
+                In the post method file route you have to write http://localhost:3000/task/
